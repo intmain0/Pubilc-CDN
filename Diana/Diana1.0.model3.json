@@ -6,7 +6,12 @@
 			"Diana1.0.2048/texture_00.png"
 		],
 		"Physics": "Diana1.0.physics3.json",
-		"DisplayInfo": "Diana1.0.cdi3.json"
+		"DisplayInfo": "Diana1.0.cdi3.json",
+		"Motions": {
+			"Idle": [{
+				"File": "Diana1.0.motion3.json"
+			}]
+}
 	},
 	"Groups": [
 		{
