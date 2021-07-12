@@ -13,11 +13,86 @@
 			}]
 }
 	},
-	"Groups": [
-		{
-			"Target": "Parameter",
-			"Name": "EyeBlink",
-			"Ids": []
-		}
-	]
+	"Controllers": {
+		"ParamHit": {},
+		"ParamLoop": {},
+		"KeyTrigger": {},
+		"EyeBlink": {
+			"MinInterval": 500,
+			"MaxInterval": 6000,
+			"Enabled": true
+		},
+		"LipSync": {
+			"Gain": 5.0
+		},
+		"MouseTracking": {
+			"SmoothTime": 0.15,
+			"Items": [{
+				"Id": "ParamBodyAngleX",
+				"Min": -10.0,
+				"Max": 10.0,
+				"DefaultValue": 0.0,
+				"Weight": 0.76343286,
+				"BlendMode": 1,
+				"Input": 1
+			}, {
+				"Id": "ParamAngleX",
+				"Min": -30.0,
+				"Max": 30.0,
+				"DefaultValue": 0.0,
+				"Weight": 0.798328757,
+				"BlendMode": 1,
+				"Input": 1
+			}, {
+				"Id": "ParamBodyAngleZ",
+				"Min": -10.0,
+				"Max": 10.0,
+				"DefaultValue": 0.0,
+				"Weight": 0.6260679,
+				"BlendMode": 1,
+				"Input": 1
+			}, {
+				"Id": "ParamBodyAngleY",
+				"Min": -10.0,
+				"Max": 10.0,
+				"DefaultValue": 0.0,
+				"Weight": 0.8907613,
+				"BlendMode": 1,
+				"Axis": 1,
+				"Input": 2
+			}, {
+				"Id": "ParamAngleY",
+				"Min": -30.0,
+				"Max": 30.0,
+				"DefaultValue": 0.0,
+				"Weight": 0.7521123,
+				"BlendMode": 1,
+				"Axis": 1,
+				"Input": 2
+			}],
+			"Enabled": true
+		},
+		"AutoBreath": {
+			"Enabled": true
+		},
+		"ExtraMotion": {
+			"Enabled": true
+		},
+		"Accelerometer": {
+			"Enabled": true
+		},
+		"Microphone": {},
+		"Transform": {},
+		"FaceTracking": {
+			"Enabled": true
+		},
+		"ParamValue": {},
+		"PartOpacity": {},
+		"ArtmeshOpacity": {},
+		"ArtmeshColor": {},
+		"ArtmeshCulling": {
+			"DefaultMode": 0
+		},
+		"IntimacySystem": {}
+	}
 }
