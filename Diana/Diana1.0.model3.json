@@ -11,21 +11,13 @@
 	"Groups": [
 		{
 			"Target": "Parameter",
-			"Name": "EyeBlink",
-			"Ids": ["PARAM_EYE_L_OPEN",
-        "PARAM_EYE_R_OPEN"]
+			"Name": "LipSync",
+			"Ids": []
 		},
 		{
 			"Target": "Parameter",
-			"Name": "MouseTracking",
-			"Ids": ["PARAM_ANGLE_X",
-        "PARAM_ANGLE_Y",
-        "PARAM_ANGLE_Z",
-        "PARAM_EYE_BALL_X",
-        "PARAM_EYE_BALL_Y",
-        "PARAM_BODY_ANGLE_X",
-        "PARAM_BODY_ANGLE_Y",
-        "PARAM_BODY_ANGLE_Z"]
+			"Name": "EyeBlink",
+			"Ids": []
 		}
 	]
 }

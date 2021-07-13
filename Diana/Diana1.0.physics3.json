@@ -33,7 +33,7 @@
 				{
 					"Source": {
 						"Target": "Parameter",
-						"Id": "PARAM_ANGLE_X"
+						"Id": "ParamAngleX"
 					},
 					"Weight": 60,
 					"Type": "X",
@@ -42,7 +42,7 @@
 				{
 					"Source": {
 						"Target": "Parameter",
-						"Id": "PARAM_ANGLE_Z"
+						"Id": "ParamAngleZ"
 					},
 					"Weight": 60,
 					"Type": "Angle",
@@ -51,7 +51,7 @@
 				{
 					"Source": {
 						"Target": "Parameter",
-						"Id": "PARAM_BODY_ANGLE_X"
+						"Id": "ParamBodyAngleX"
 					},
 					"Weight": 40,
 					"Type": "X",
@@ -60,7 +60,7 @@
 				{
 					"Source": {
 						"Target": "Parameter",
-						"Id": "PARAM_BODY_ANGLE_Z"
+						"Id": "ParamBodyAngleZ"
 					},
 					"Weight": 40,
 					"Type": "Angle",
@@ -192,7 +192,7 @@
 				{
 					"Source": {
 						"Target": "Parameter",
-						"Id": "PARAM_ANGLE_X"
+						"Id": "ParamAngleX"
 					},
 					"Weight": 60,
 					"Type": "X",
@@ -201,7 +201,7 @@
 				{
 					"Source": {
 						"Target": "Parameter",
-						"Id": "PARAM_ANGLE_Z"
+						"Id": "ParamAngleZ"
 					},
 					"Weight": 60,
 					"Type": "Angle",
@@ -210,7 +210,7 @@
 				{
 					"Source": {
 						"Target": "Parameter",
-						"Id": "PARAM_BODY_ANGLE_X"
+						"Id": "ParamBodyAngleX"
 					},
 					"Weight": 40,
 					"Type": "X",
@@ -219,7 +219,7 @@
 				{
 					"Source": {
 						"Target": "Parameter",
-						"Id": "PARAM_BODY_ANGLE_Z"
+						"Id": "ParamBodyAngleZ"
 					},
 					"Weight": 40,
 					"Type": "Angle",
