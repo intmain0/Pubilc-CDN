@@ -2,17 +2,17 @@
 	"Version": 3,
 	"Parameters": [
 		{
-			"Id": "PARAM_ANGLE_X",
+			"Id": "ParamAngleX",
 			"GroupId": "",
 			"Name": "角度 X"
 		},
 		{
-			"Id": "PARAM_ANGLE_Y",
+			"Id": "ParamAngleY",
 			"GroupId": "",
 			"Name": "角度 Y"
 		},
 		{
-			"Id": "PARAM_ANGLE_Z",
+			"Id": "ParamAngleZ",
 			"GroupId": "",
 			"Name": "角度 Z"
 		},
@@ -97,17 +97,17 @@
 			"Name": "口　開閉"
 		},
 		{
-			"Id": "PARAM_BODY_ANGLE_X",
+			"Id": "ParamBodyAngleX",
 			"GroupId": "",
 			"Name": "体の回転　X"
 		},
 		{
-			"Id": "PARAM_BODY_ANGLE_Y",
+			"Id": "ParamBodyAngleY",
 			"GroupId": "",
 			"Name": "体の回転　Y"
 		},
 		{
-			"Id": "PARAM_BODY_ANGLE_Z",
+			"Id": "ParamBodyAngleZ",
 			"GroupId": "",
 			"Name": "体の回転　Z"
 		},
