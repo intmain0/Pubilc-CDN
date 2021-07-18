@@ -210,7 +210,7 @@
 				{
 					"Source": {
 						"Target": "Parameter",
-						"Id": "ParamBodyAngleX"
+						"Id": "ParamBodyAngleZ"
 					},
 					"Weight": 40,
 					"Type": "X",

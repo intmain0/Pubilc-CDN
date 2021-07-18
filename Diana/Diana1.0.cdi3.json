@@ -17,82 +17,82 @@
 			"Name": "角度 Z"
 		},
 		{
-			"Id": "PARAM_EYE_L_OPEN",
+			"Id": "ParamEyeLOpen",
 			"GroupId": "",
 			"Name": "左眼　開閉"
 		},
 		{
-			"Id": "PARAM_EYE_L_SMILE",
+			"Id": "ParamEyeLSmile",
 			"GroupId": "",
 			"Name": "左眼　笑顔"
 		},
 		{
-			"Id": "PARAM_EYE_R_OPEN",
+			"Id": "ParamEyeROpen",
 			"GroupId": "",
 			"Name": "右眼　開閉"
 		},
 		{
-			"Id": "PARAM_EYE_R_SMILE",
+			"Id": "ParamEyeRSmile",
 			"GroupId": "",
 			"Name": "右眼　笑顔"
 		},
 		{
-			"Id": "PARAM_EYE_BALL_X",
+			"Id": "ParamEyeBallX",
 			"GroupId": "",
 			"Name": "目玉 X"
 		},
 		{
-			"Id": "PARAM_EYE_BALL_Y",
+			"Id": "ParamEyeBallY",
 			"GroupId": "",
 			"Name": "目玉 Y"
 		},
 		{
-			"Id": "PARAM_BROW_L_Y",
+			"Id": "ParamBrowLY",
 			"GroupId": "",
 			"Name": "左眉　上下"
 		},
 		{
-			"Id": "PARAM_BROW_R_Y",
+			"Id": "ParamBrowRY",
 			"GroupId": "",
 			"Name": "右眉　上下"
 		},
 		{
-			"Id": "PARAM_BROW_L_X",
+			"Id": "ParamBrowLX",
 			"GroupId": "",
 			"Name": "左眉　左右"
 		},
 		{
-			"Id": "PARAM_BROW_R_X",
+			"Id": "ParamBrowRX",
 			"GroupId": "",
 			"Name": "右眉　左右"
 		},
 		{
-			"Id": "PARAM_BROW_L_ANGLE",
+			"Id": "ParamBrowLAngle",
 			"GroupId": "",
 			"Name": "左眉　角度"
 		},
 		{
-			"Id": "PARAM_BROW_R_ANGLE",
+			"Id": "ParamBrowRAngle",
 			"GroupId": "",
 			"Name": "右眉　角度"
 		},
 		{
-			"Id": "PARAM_BROW_L_FORM",
+			"Id": "ParamBrowLForm",
 			"GroupId": "",
 			"Name": "左眉　変形"
 		},
 		{
-			"Id": "PARAM_BROW_R_FORM",
+			"Id": "ParamBrowRForm",
 			"GroupId": "",
 			"Name": "右眉　変形"
 		},
 		{
-			"Id": "PARAM_MOUTH_FORM",
+			"Id": "ParamMouthForm",
 			"GroupId": "",
 			"Name": "口　変形"
 		},
 		{
-			"Id": "PARAM_MOUTH_OPEN_Y",
+			"Id": "ParamMouthOpenY",
 			"GroupId": "",
 			"Name": "口　開閉"
 		},
@@ -112,7 +112,7 @@
 			"Name": "体の回転　Z"
 		},
 		{
-			"Id": "PARAM_BREATH",
+			"Id": "ParamBreath",
 			"GroupId": "",
 			"Name": "呼吸"
 		},
