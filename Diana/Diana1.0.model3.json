@@ -3,7 +3,7 @@
 	"FileReferences": {
 		"Moc": "Diana1.0.moc3",
 		"Textures": [
-			"Diana1.0.2048/texture_00.png"
+			"https://xujcoj.com/static/upload/img/20220130_de82c2.png"
 		],
 		"Physics": "Diana1.0.physics3.json",
 		"DisplayInfo": "Diana1.0.cdi3.json"
